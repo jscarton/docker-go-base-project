@@ -1,6 +1,6 @@
-# docker-go-base-prject
+# docker-go-base-project
 
-This is the most basic way to build and run a go app on docker. The mypackage folder was placed to show how to create custom packages and use them in your app
+This is the most basic way to build and run a go app on docker. The _mypackage_ folder was placed to show how to create custom packages and use them in your app.
 
 ## How to build image
 
